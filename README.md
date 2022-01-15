@@ -1,6 +1,8 @@
 ## About Me
 
-I'm Andrew Brown, I'm orginally from Thunder Bay, but live in the Greater Toronto Area (GTA).
+I'm Andrew Brown, I'm Canadian, dyslexic and a workaholic.
+
+
 
 ## Free Cloud Certifications Video Courses
 
@@ -16,6 +18,7 @@ I create free cloud certification courses and I publish them to [freeCodeCamp](h
 - AWS DVA-C01 (Developer Associate)
 - AWS SOA-C01 (SysOps Administrator Associate)
 - Hashicorp Terraform Associate
+- Kubernetes and Cloud Native Associate 
 - and more!
 
 The best way to support more free cloud certification courses is to purchase additional study material layered ontop of the free to watch video course at [ExamPro](https://www.exampro.co)
